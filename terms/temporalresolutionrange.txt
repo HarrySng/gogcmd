@@ -1,0 +1,57 @@
+bca20202-2b06-4657-a425-5b0e416bce0c
+1 minute - < 1 hour
+
+48ff676f-836c-4cff-bc88-4c4cc06b2e1b
+1 second - < 1 minute
+
+42a2f639-d1c3-4e82-a8b8-63f0f4a60ac6
+< 1 second
+
+af931dca-9a7d-4ba9-b40f-2a21e31f2d5b
+Annual Climatology
+
+40e09855-fb48-4a7d-9851-d6e809e6c309
+Annual
+
+f308a8db-40ea-4932-a58c-fb0a093959dc
+Climate Normal (30-year climatology)
+
+1ac968ef-a90a-4ffc-adbf-ea0c0d69a7f9
+Daily - < Weekly
+
+f86e464a-cf9d-4e15-a39b-501855d1dc5a
+Daily Climatology
+
+3d97e993-dc6a-41ff-8a49-3e837c1fc2b1
+Decadal
+
+99ef187e-6940-4c10-8d65-00d4426d493b
+Diurnal
+
+31765761-b153-478a-92b3-1088997fd74b
+Hourly - < Daily
+
+027dee16-b361-481e-868d-add966eb5b71
+Hourly Climatology
+
+8900c323-8789-4403-91e9-c399de369935
+Monthly - < Annual
+
+8c8c70b1-f6c5-4f34-89b5-510049b8c8ab
+Monthly Climatology
+
+e0040d4b-e398-4b65-bd42-d39434b5cc95
+Pentad Climatology
+
+7c5420a6-94e2-40ca-9dff-20309090d327
+Seasonal
+
+7afdb8ba-a504-45b6-b301-730e3c69d23a
+Subannual
+
+7b2a303c-3cb7-4961-9851-650548964674
+Weekly - < Monthly
+
+2de882f0-d84a-471e-8fb5-9f8a1c7913c1
+Weekly Climatology
+
