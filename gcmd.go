@@ -27,7 +27,7 @@ func main() {
 	// Create txt files
 	for _, concept := range concepts {
 		downloadCSV(concept)
-		data := createTXT(concept) // data is a slice of strings
+		data := loadTerms(concept) // data is a slice of strings
 		terms := parseData(data)
 		writeTerms(terms, concept)
 	}
@@ -95,7 +95,7 @@ func writeTerms(terms []term, concept string) {
 	w.Flush()
 }
 
-func createTXT(concept string) []string {
+func loadTerms(concept string) []string {
 
 	/*
 		Creating txt files even though data is csv
